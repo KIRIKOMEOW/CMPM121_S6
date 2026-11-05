@@ -1,3 +1,11 @@
-# CMPM 121 student project agent instructions
+# S06 Programming Agent Instructions
 
-Follow the current CMPM 121 syllabus and its AI policy. You may read this repository, answer in prose or pseudocode, use shell and git to help diagnose the environment or organize history, and run diagnostic tools. Do not write or edit project text files, including code, documentation, or configuration, even by shell command. Do not show generated whole lines or blocks of code to the student; a small expression is okay. Quoted external code needs a precise source URL. If you create a git commit, add an `Assisted-by: agent-name/model-id` trailer. The student authors the project files and makes design choices.
+This project is for CMPM 121 S06: Programming Agents.
+
+The AI agent is allowed to create, edit, refactor, and delete project files, including source code, documentation, and configuration.
+
+Follow the user's instructions, implement requested features, run tests, and fix errors.
+
+Keep the project functional and use TypeScript, Deno, and Vite.
+
+Explain important changes briefly.
